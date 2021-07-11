@@ -1,16 +1,1 @@
-# tcrwa_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We have developed a cross platform mobile application, An App Development project along with three of my classmates to build a user-friendly one-stop application for all the needs of a residents association. There are different screens in the app for different purposes. notification screen for displaying the upcoming events of the organization, along with the place and time of the event. user profile screen is to add and display members the details of the user stored in the database including phone number, address, blood group . gallery screen to display the pictures of the previous events grouped event-wise ; helpline screen to display the emergency contacts of nearby hospitals, fire station and the executive members of the association ; Neighbor screen to search for details of a fellow resident in the residents association. The front-end was implemented using Flutter and back-end of the application using Firebase
